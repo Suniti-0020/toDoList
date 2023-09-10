@@ -25,7 +25,7 @@ This project is a simple web-based to-do list application designed to help users
   - Bootstrap
 
 - **Backend**:
-  - [Backend Technologies : Node JS, Express, EJS,  
+  - Backend Technologies : Node JS, Express, EJS  
   - Database : Mongodb,  
 
 - **Version Control**:
@@ -33,9 +33,9 @@ This project is a simple web-based to-do list application designed to help users
 
 ## Setup Instructions
 1. [Clone the repository](#) or [download the ZIP file](#) of this project.
-2. [Install the necessary dependencies](#) for both the frontend and backend using the command "npm i".
-3. [Start the development server](#) using the command "nodemon run".
-4. [Access the application](#) in your web browser search "localhost:3000".
+2. [Install the necessary dependencies](#) for both the frontend and backend using the command `npm i`.
+3. [Start the development server](#) using the command `nodemon run`.
+4. [Access the application](#) in your web browser search `localhost:3000`.
 
 
 ## Contributing
